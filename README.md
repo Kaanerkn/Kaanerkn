@@ -1,10 +1,16 @@
 <div align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:38BDF8&height=180&section=header&text=H%C4%B1z%C4%B1r%20Kaan%20Erkan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aerospace%20Engineering%20Student%20%7C%20Rocketry%20%26%20Space%20Systems&descAlignY=58&descSize=16](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:38BDF8&height=180&section=header&text=H%C4%B1z%C4%B1r%20Kaan%20Erkan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aerospace%20Engineering%20Student%20%7C%20Rocketry%20%26%20Space%20Systems&descAlignY=58&descSize=16)" width="100%" />
-  
-  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Aerospace+Engineering+Student+%40+NEU;Rocketry+%26+Structural+Analysis+(TEKNOFEST);NASA+Space+Apps+Challenge+Team+Lead;IHA-1+Commercial+Drone+Pilot](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Aerospace+Engineering+Student+%40+NEU;Rocketry+%26+Structural+Analysis+(TEKNOFEST);NASA+Space+Apps+Challenge+Team+Lead;IHA-1+Commercial+Drone+Pilot)" alt="Typing SVG" />
-  <br>
-  <img src="[https://komarev.com/ghpvc/?username=Kaanerkn&color=38bdf8&style=for-the-badge](https://komarev.com/ghpvc/?username=Kaanerkn&color=38bdf8&style=for-the-badge)" alt="Profile Views" />
-  <img src="[https://img.shields.io/github/followers/Kaanerkn?label=Followers&style=for-the-badge&color=1E3A8A](https://img.shields.io/github/followers/Kaanerkn?label=Followers&style=for-the-badge&color=1E3A8A)" alt="Followers" />
+
+# 🛰️ Hızır Kaan Erkan
+### Aerospace Engineering Student @ Necmettin Erbakan University
+**Rocketry & Structural Analysis • Space Data Systems • İHA-1 Commercial Pilot**
+
+<br>
+
+![Aerospace](https://img.shields.io/badge/Domain-Aerospace_%26_Rocketry-0F172A?style=for-the-badge&logo=nasa&logoColor=white)
+![NASA Space Apps](https://img.shields.io/badge/NASA_Space_Apps-Team_Lead-1E3A8A?style=for-the-badge&logo=spacex&logoColor=white)
+![TEKNOFEST](https://img.shields.io/badge/TEKNOFEST-B%C3%BCrk%C3%BCt_Tak%C4%B1m%C4%B1-DC2626?style=for-the-badge)
+![License](https://img.shields.io/badge/%C4%B0HA--1-Commercial_Pilot-0284C7?style=for-the-badge)
+
 </div>
 
 ---
@@ -49,31 +55,4 @@ status: Always building something for space & flight 🛰️
 
 | Project / Team | Role & Scope | Tech / Domain |
 | :--- | :--- | :--- |
-| **NASA Space Apps 2026 (The Orion X)** | Team Lead — Space data processing & mission software | `Python`, `Data Analysis` |
-| **TEKNOFEST Rocket Competition (Bürküt Takımı)** | Structural & joint/pin shear stress analysis (B-Group Rocket) | `MATLAB`, `AutoCAD`, `Mechanics` |
-| **Exoplanet Hunt App** | Automated exoplanet transit detection & web deployment | `Python`, `Streamlit`, `Render` |
-
----
-
-### 📊 GitHub Analytics & Activity
-
-<div align="center">
-  <img height="165em" src="[https://github-readme-stats.vercel.app/api?username=Kaanerkn&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=Kaanerkn&show_icons=true&theme=tokyonight&hide_border=true)" />
-  <img height="165em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Kaanerkn&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaanerkn&layout=compact&theme=tokyonight&hide_border=true)" />
-</div>
-
-<div align="center">
-  <img src="[https://streak-stats.demolab.com/?user=Kaanerkn&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com/?user=Kaanerkn&theme=tokyonight&hide_border=true)" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="[https://github-readme-activity-graph.vercel.app/graph?username=Kaanerkn&theme=tokyo-night&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=Kaanerkn&theme=tokyo-night&hide_border=true)" width="95%" />
-</div>
-
----
-
-### 📫 Connect With Me
-
-<div align="center">
-  <a href="[https://www.linkedin.com/in/h-kaan-erkan-999842338/](https://www.linkedin.com/in/h-kaan-erkan-999842338/)"><img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" /></a>
-</div>
+| **NASA Space Apps 2026 (The Orion X)** |
