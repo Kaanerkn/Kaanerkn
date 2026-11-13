@@ -1,22 +1,20 @@
-<h1 align="center">Hi there 👋 I'm Hızır Kaan Erkan</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Aerospace+Engineering+Student+%40+NEU;Rocketry+%26+Orbital+Mechanics;NASA+Space+Apps+%26+TEKNOFEST+Competitor;IHA-1+Commercial+Drone+Pilot" alt="Typing SVG" />
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Kaanerkn&color=38bdf8&style=for-the-badge" alt="Profile Views" />
+</div>
 
 ---
 
-🎓 Aerospace Engineering student at Necmettin Erbakan University  
-🛫 Passionate about aviation, drones, and national technologies  
-💻 Currently learning Python and exploring artificial intelligence  
-📚 Constantly improving myself in both technical and soft skills
+### 🚀 About Me
 
----
-
-### 🚀 What I'm working on:
-- Python fundamentals and small projects  
-- Improving my communication and language skills  
-- Building my online presence (LinkedIn & GitHub)
-
----
-
-### 📫 Connect with me:
-- [LinkedIn Profile](https://www.linkedin.com/in/hızır-kaan-erkan-999842338/)
-
-> “Coding the sky, dreaming beyond the clouds.” ☁️✨
+```yaml
+name: Hızır Kaan Erkan
+department: Aviation & Aerospace Engineering (2nd Year)
+university: Necmettin Erbakan University
+license: İHA-1 Commercial Drone Pilot
+focus:
+  - Rocketry & Structural Analysis (TEKNOFEST - Bürküt Takımı)
+  - Space Data & Exoplanet Detection (NASA Space Apps - The Orion X)
+  - Flight Mechanics & Orbital Dynamics
+status: Always building something for space & flight 🛰️
