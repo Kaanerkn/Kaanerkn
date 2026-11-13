@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Aerospace+Engineering+Student+%40+NEU;Rocketry+%26+Orbital+Mechanics;NASA+Space+Apps+%26+TEKNOFEST+Competitor;IHA-1+Commercial+Drone+Pilot" alt="Typing SVG" />
+
 # 🛰️ Hızır Kaan Erkan
 ### Aerospace Engineering Student @ Necmettin Erbakan University
 **Rocketry & Structural Analysis • Space Data Systems • İHA-1 Commercial Pilot**
@@ -55,4 +57,23 @@ status: Always building something for space & flight 🛰️
 
 | Project / Team | Role & Scope | Tech / Domain |
 | :--- | :--- | :--- |
-| **NASA Space Apps 2026 (The Orion X)** |
+| **NASA Space Apps 2026 (The Orion X)** | Team Lead — Space data processing & mission software | `Python`, `Data Analysis` |
+| **TEKNOFEST Rocket Competition (Bürküt Takımı)** | Structural & joint/pin shear stress analysis (B-Group Rocket) | `MATLAB`, `AutoCAD`, `Mechanics` |
+| **Exoplanet Hunt App** | Automated exoplanet transit detection & web deployment | `Python`, `Streamlit`, `Render` |
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Kaanerkn&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaanerkn&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+### 📫 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/h-kaan-erkan-999842338/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div>
