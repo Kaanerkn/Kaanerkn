@@ -8,6 +8,12 @@
 
 <br>
 
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Kaanerkn.Kaanerkn&left_color=0F172A&right_color=38BDF8)
+![Followers](https://img.shields.io/github/followers/Kaanerkn?label=Followers&style=flat-square&color=1E3A8A&labelColor=0F172A)
+![Stars](https://img.shields.io/github/stars/Kaanerkn?label=Stars&style=flat-square&color=0284C7&labelColor=0F172A)
+
+<br>
+
 ![Aerospace](https://img.shields.io/badge/Domain-Aerospace_%26_Space_Systems-0F172A?style=for-the-badge&logo=nasa&logoColor=white)
 ![NASA Space Apps 2026](https://img.shields.io/badge/NASA_Space_Apps_2026-The_Orion_X_(Team_Lead)_%7C_Planet_X_%26_SPHEREx-1E3A8A?style=for-the-badge&logo=spacex&logoColor=white)
 ![NASA Space Apps 2025](https://img.shields.io/badge/NASA_Space_Apps_2025-Exoplanet_Hunt-0284C7?style=for-the-badge)
@@ -66,15 +72,6 @@ status: Always building something for space & flight 🛰️
 | **NASA Space Apps 2026 — Planet X & SPHEREx (The Orion X)** | Team Lead — Public web tool for visualizing time-domain motion across 102-band near-infrared SPHEREx sky surveys | `Python`, `Astrophysics`, `Web App` |
 | **NASA Space Apps 2025 — Exoplanet Hunt** | Co-Developer — Automation-assisted exoplanet detection on astronomical datasets | `Python`, `Data Analysis` |
 | **Exoplanet Hunt Web App** | Interactive transit light-curve analysis & cloud deployment | `Python`, `Streamlit`, `Render` |
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Kaanerkn&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaanerkn&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
 
 ---
 
